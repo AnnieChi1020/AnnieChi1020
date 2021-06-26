@@ -4,7 +4,7 @@ A dynamic and creative Front-End developer who always eager to learn new techniq
 
 ### Currently Work with
 
-<img src="./icons/370768.svg" height="50">
+<img src="./icons/371108.svg" height="40"> <img src="./icons/370768.svg" height="40">
 
 ### Contact
 
