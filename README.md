@@ -2,5 +2,5 @@
 
 A Dynamic and creative Front-End Developer. 
 
-Always eager to learn new techniques. 
+Always eager to learn new techniques!
 
