@@ -1,7 +1,6 @@
-### This is Annie 🐵
+### Hi! I'm Annie 🐵
 
-<!--
-**AnnieChi1020/AnnieChi1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: anniechi1020@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
