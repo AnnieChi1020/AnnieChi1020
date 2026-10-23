@@ -3,9 +3,9 @@
 Software developer with a front-end focus, working mostly in **TypeScript, React, and Next.js**.
 I enjoy building clean, responsive interfaces and I'm currently exploring how to bring AI into everyday web apps.
 
-### Currently Work with
+### Tech Stack
 
-<img src="./icons/371108.svg" height="30"> <img src="./icons/370768.svg" height="30"> <img src="./icons/javascript-js-seeklogo.com.svg" height="25"> <img src="./icons/react-seeklogo.com.svg" height="25"> <img src="./icons/371394.svg" height="25"> <img src="./icons/git-icon.svg" height="25"> <img src="./icons/cib-github.svg" height="25"> <img src="./icons/370638.svg" height="25">
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,supabase,postgres,git,github&perline=11" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS, Supabase, PostgreSQL, Git, GitHub" height="40">
 
 ### Contact
 
