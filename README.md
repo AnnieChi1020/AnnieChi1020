@@ -5,7 +5,12 @@ I enjoy building clean, responsive interfaces and I'm currently exploring how to
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,supabase,postgres,git,github&perline=11" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS, Supabase, PostgreSQL, Git, GitHub" height="40">
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,postgres" alt="TypeScript, React, Next.js, Tailwind CSS, PostgreSQL" height="36">
+
+**Front-end:** TypeScript · React · Next.js · Tailwind CSS\
+**Back-end & data:** PostgreSQL · Supabase · Drizzle ORM\
+**AI:** OpenAI API · Vercel AI SDK\
+**Testing:** Vitest · Playwright
 
 ### Contact
 
