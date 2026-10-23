@@ -1,6 +1,7 @@
-## Hi, I'm Annie 🐵
+## Hi, I'm Annie 👋
 
-A dynamic and creative Front-End developer who always eager to learn new techniques!
+Software developer with a front-end focus, working mostly in **TypeScript, React, and Next.js**.
+I enjoy building clean, responsive interfaces and I'm currently exploring how to bring AI into everyday web apps.
 
 ### Currently Work with
 
